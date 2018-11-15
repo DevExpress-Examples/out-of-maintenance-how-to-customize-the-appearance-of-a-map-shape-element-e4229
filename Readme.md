@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/MapShapeAppearance/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MapShapeAppearance/MainWindow.xaml))**
+<!-- default file list end -->
 # How to customize the appearance of a map shape element
 
 
